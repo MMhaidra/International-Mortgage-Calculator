@@ -626,7 +626,7 @@ if st.button("Calculate", type="primary"):
         st.markdown("*This estimate includes principal, interest, taxes, insurance, and HOA fees.*")
 
 st.markdown("---")
-st.caption("© 2024 Mortgage Calculator Dashboard")
+st.caption("© 2025 Mortgage Calculator Dashboard")
 st.caption("Note: Default interest rates and financial rules are sourced from official central bank websites and financial institutions. "
            "These are placeholders. Please verify current rates before making decisions. "
            "You can override default values with the most up-to-date information as needed.")
